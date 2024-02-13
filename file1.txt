@@ -2,4 +2,4 @@ hello
 edit 1
 Hi, this is edited by yash.
 commit one in branch ashritha
-
+Created Rules for merging it two the master branch.
